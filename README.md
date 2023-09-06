@@ -15,7 +15,7 @@ I'm a Network & Security Engineer with a passion for Software Development, Secur
 🌐 You can also find me on my [Personal Website](#), where I share more about my journey and insights.<br><br>Thank you for visiting my GitHub profile! 😊 <br><br>
 
 
-## Technologies I Work With
+## Technologies I Worked With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
