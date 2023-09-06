@@ -180,4 +180,4 @@ I'm proficient in two languages, both in terms of programming and spoken languag
 
 
 
-<img src="https://raw.githubusercontent.com/AnasAlsallak/Anas-Alsallak.github.io/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AnasAlsallak/AnasAlsallak/output/snake.svg" alt="Snake animation" />
