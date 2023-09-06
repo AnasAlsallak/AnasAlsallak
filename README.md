@@ -8,7 +8,7 @@ I'm a Network & Security Engineer with a passion for Software Development, Secur
 
 - 💡 I'm interested in Data Science, Software Development, Cyber Security.
 
-- 📚 I hold a Bachlor Degree in Network Engineering from Jordan University of Science and Technology.
+- 📚 I hold a Bachelor Degree in Network Engineering from Jordan University of Science and Technology.
 
 🚀 I'm excited to share my work and connect with like-minded individuals. Feel free to explore my repositories, and don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/anas-al-sallak-059430207/). Let's collaborate and create something amazing together!
 
@@ -161,7 +161,7 @@ Throughout my journey, I've had the privilege of achieving some milestones and g
 
 I'm proficient in two languages, both in terms of programming and spoken languages:
 
-- 🚀 Arabic: Mother tuonge.
+- 🚀 Arabic: Mother tongue.
 - 🌟 English: Fluent.
 
 <br>Feel free to connect with me in any of these languages, whether it's about coding or just a friendly chat! <br><br>
